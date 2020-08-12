@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureLibrary", "TemperatureLibrary\TemperatureLibrary.csproj", "{697A9C84-500C-4EF2-95B8-906C15382E94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureLibrary.Test", "TemperatureLibrary.Test\TemperatureLibrary.Test.csproj", "{8D1AED68-6A66-4BCB-A004-C5CABEB212C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{697A9C84-500C-4EF2-95B8-906C15382E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{697A9C84-500C-4EF2-95B8-906C15382E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{697A9C84-500C-4EF2-95B8-906C15382E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1AED68-6A66-4BCB-A004-C5CABEB212C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1AED68-6A66-4BCB-A004-C5CABEB212C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1AED68-6A66-4BCB-A004-C5CABEB212C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1AED68-6A66-4BCB-A004-C5CABEB212C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
